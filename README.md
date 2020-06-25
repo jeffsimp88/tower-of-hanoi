@@ -1,4 +1,4 @@
-## Project Authors; Jeff Simpson and Stephen Serio
+## Project Authors; Jeffrey Simpson and Stephen Serio
 
 * Stephen Created the divs in the HTML
 * Jeff modified the divs in the CSS portion during the same time.
@@ -9,3 +9,5 @@
 -JS I added some test button with a function. Commented them out temporarily.
 Also updated CSS to display in the center and changed the font style.
 
+https://gitlab.com/S_serio92/towerofhanoiv2
+https://gitlab.com/S_serio92/towerofhanoiv2/pages
